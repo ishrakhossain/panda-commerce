@@ -16,3 +16,32 @@
 .container{
     margin-bottom: 100px;
 }
+.cat1{
+    background-color: #FF136F;
+    font-size: medium;
+}
+.cat2{
+    background-color: orchid;
+    font-size: medium;
+}
+.cat3{
+    background-color: blue;
+    font-size: medium;
+}
+.cat1 , .cat2 , .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.categories h1{
+    color: whitesmoke;
+}
+.container img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px antiquewhite ;
+}
+#subscribe{
+    height: 300px;
+}
